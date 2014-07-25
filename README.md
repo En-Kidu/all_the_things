@@ -7,7 +7,7 @@ Adding content & push
 
 > $ git push origin gh-pages
 
-* [visit @ username.github.io/projectName] (http://en-kidu/github.io/all_the_things)
+* [visit @ username.github.io/projectName] (http://en-kidu.github.io/all_the_things)
 
 Setting up a costum domain
 -----------------------------
