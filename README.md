@@ -1,11 +1,13 @@
-* adding content & push
+Adding content & push
+-----------------------------
 
-$ git add <name>
-$ git commit -m "<comment>"
-$ git push origin gh-pages
+> $ git add <name>
+> $ git commit -m "<comment>"
+> $ git push origin gh-pages
 
-visit @ <username>.github.io/<projectName>
+[visit @ <username>.github.io/<projectName>] (en-kidu/github.io/all_the_things)
 
-* setting up a costum domain
+Setting up a costum domain
+-----------------------------
 
-yet to come
+* yet to come
