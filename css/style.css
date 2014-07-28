@@ -1,7 +1,30 @@
-body{
-	background-image: url('../img/bg06.png');
-	background-repeat: repeat;
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-image: url('../img/bg06.png');
+    background-repeat: repeat;
+    padding-top: 54px;
+
+    /* Margin bottom by footer height */
+    margin-bottom: 250px;
 }
 .thumbnail {
-	border-radius: 9px;
+    border-radius: 9px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    
+    /* Set the fixed height of the footer here */
+    height: 250px;
+    background-color: #f5f5f5;
+}
+
+.footer .container {
+	margin: 20px 0px;
 }
