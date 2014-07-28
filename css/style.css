@@ -1,0 +1,7 @@
+body{
+	background-image: url('../img/bg06.png');
+	background-repeat: repeat;
+}
+.thumbnail {
+	border-radius: 9px;
+}
